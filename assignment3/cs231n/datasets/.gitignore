@@ -1,0 +1,5 @@
+coco_captioning/*
+tiny-imagenet-100-A/*
+*.h5
+
+
